@@ -11,6 +11,10 @@ Each solution is stored in its own folder under `cpp-solutions/` or `python-solu
 
 > ⚠️ **Disclaimer**: This repository contains only my own code. It does **not** reproduce any of the original problem statements, in accordance with Project Euler’s [terms of use](https://projecteuler.net/about).
 
+## Development Notes
+
+Commit messages in this repository follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
