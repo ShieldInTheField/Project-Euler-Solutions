@@ -34,4 +34,4 @@ for row in range(N - element_count + 1):
 
 print(max_product)
 
-print(f"Execution time: {(time.time() - start_time) * 1000} milliseconds")
+print(f"Execution time: {int((time.time() - start_time) * 1000000)} microseconds")
